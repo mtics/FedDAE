@@ -1,5 +1,10 @@
 # FedMAE
 
+
+[![Static Badge](https://img.shields.io/badge/AAAI-XXXX-red?style=plastic&logo=AAAI&labelColor=%2386C166&color=grey)](https://iclr.cc/virtual/2024/poster/17446) | 
+[![Static Badge](https://img.shields.io/badge/OpenReview-FedDAE-red?style=plastic&logo=OpenReivew&labelColor=%23FCFAF2&color=grey)](https://openreview.net/forum?id=Z91eH3ajOr) | 
+[![Static Badge](https://img.shields.io/badge/arxiv-2408.08931-red?style=plastic&logo=arxiv&logoColor=white&labelColor=%23C73E3A&color=grey)](https://arxiv.org/abs/2408.08931)
+
 > This project is the code and the supplementary of "**Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach**"
 
 ## Requirements
