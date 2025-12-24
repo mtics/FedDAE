@@ -1,4 +1,4 @@
-# FedMAE
+# FedDAE
 
 
 [![Static Badge](https://img.shields.io/badge/AAAI-XXXX-red?style=plastic&logo=AAAI&labelColor=%2386C166&color=grey)](https://iclr.cc/virtual/2024/poster/17446) | 
